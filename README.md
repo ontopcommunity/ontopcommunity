@@ -32,10 +32,15 @@
 | **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white) |
 
 ---
-### 🌐 Let's Connect
-
+## 📫 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/[tên-người-dùng-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/[tên-người-dùng-twitter]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.instagram.com/[tên-người-dùng-instagram]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://facebook.com/minh21092k9" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@ontopcommunity" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://t.me/ontop2k9" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" />
+  </a>
 </p>
