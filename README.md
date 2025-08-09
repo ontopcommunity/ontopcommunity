@@ -23,38 +23,39 @@
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠️ Tech Stack
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff)
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff) 
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Database & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) 
+### Tools & Others
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ---
+
 ## 📫 Connect With Me  
 <p align="center">
   <a href="https://facebook.com/minh21092k9" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.tiktok.com/@ontopcommunity" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" />
+  <a href="https://www.tiktok.com/@ipa.ios.ontop" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://t.me/ontop2k9" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
