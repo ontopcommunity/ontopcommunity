@@ -52,7 +52,7 @@
   <a href="https://facebook.com/minh21092k9" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.tiktok.com/@ipa.ios.ontop" target="_blank">
+  <a href="https://www.tiktok.com/@ontopcommunity" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://t.me/ontop2k9" target="_blank">
