@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Minh! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FF4B1F&center=true&vCenter=true&width=550&lines=Frontend+Developer;Website+Deverlop;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FF4B1F&center=true&vCenter=true&width=550&lines=Frontend+Developer;Website+Deverloper;Always+Learning+New+Things" />
 </p>
 <p align="center">
   A passionate Frontend Developer from Ha Tinh,Vietnam. I love building beautiful and user-friendly web interfaces. My goal is to create great user experiences through clean, efficient, and modern code.
